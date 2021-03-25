@@ -1,12 +1,14 @@
 # EXAClock
 
+An exact clock, which works with self-adjusting.
+
 ## Build Setup
 
 ```bash
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:80
 $ yarn dev
 
 # build for production and launch server

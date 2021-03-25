@@ -20,7 +20,7 @@ export default {
 				content: "An exact clock, which works with self-adjusting.",
 			},
 		],
-		link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+		link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.png" }],
 	},
 
 	// Global CSS: https://go.nuxtjs.dev/config-css
