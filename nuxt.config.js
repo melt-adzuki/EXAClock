@@ -43,6 +43,10 @@ export default {
 		"@nuxtjs/axios",
 	],
 
+	router: {
+		middleware: "time",
+	},
+
 	// Axios module configuration: https://go.nuxtjs.dev/config-axios
 	axios: {},
 

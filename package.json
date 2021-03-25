@@ -12,7 +12,9 @@
 	},
 	"dependencies": {
 		"@nuxtjs/axios": "^5.13.1",
+		"accurate-interval": "^1.0.9",
 		"core-js": "^3.9.1",
+		"date-format": "^3.0.0",
 		"nuxt": "^2.15.3",
 		"nuxt-buefy": "^0.4.4"
 	},
@@ -24,8 +26,8 @@
 		"eslint-plugin-prettier": "^3.3.1",
 		"jest": "^26.6.3",
 		"prettier": "^2.2.1",
-		"vue-jest": "^3.0.4",
 		"sass": "^1.32.8",
-		"sass-loader": "^10.0.1"
+		"sass-loader": "^10.0.1",
+		"vue-jest": "^3.0.4"
 	}
 }
