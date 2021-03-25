@@ -6,7 +6,6 @@
 
 <script>
 /*
-	TODO: Use NTP to get time
 	TODO: Add some additional informations such as current date and week
 */
 

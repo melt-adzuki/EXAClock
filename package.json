@@ -1,6 +1,6 @@
 {
 	"name": "exaclock",
-	"description": "An exact clock, which uses NTP to show time.",
+	"description": "An exact clock, which works with self-adjusting.",
 	"version": "1.0.0",
 	"private": true,
 	"scripts": {

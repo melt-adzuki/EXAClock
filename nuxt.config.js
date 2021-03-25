@@ -17,7 +17,7 @@ export default {
 			{
 				hid: "description",
 				name: "description",
-				content: "An exact clock, which uses NTP to show time.",
+				content: "An exact clock, which works with self-adjusting.",
 			},
 		],
 		link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
