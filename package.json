@@ -1,7 +1,7 @@
 {
 	"name": "exaclock",
 	"description": "An exact clock, which works with self-adjusting.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": false,
 	"scripts": {
 		"dev": "nuxt --port 80",
