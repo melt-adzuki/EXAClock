@@ -16,7 +16,7 @@
 		"core-js": "^3.9.1",
 		"date-format": "^3.0.0",
 		"nuxt": "^2.15.4",
-		"nuxt-buefy": "^0.4.6"
+		"nuxt-buefy": "^0.4.7"
 	},
 	"devDependencies": {
 		"@vue/test-utils": "^1.1.4",
