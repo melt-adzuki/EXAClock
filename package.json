@@ -11,7 +11,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"@nuxtjs/axios": "^5.13.1",
+		"@nuxtjs/axios": "^5.13.3",
 		"accurate-interval": "^1.0.9",
 		"core-js": "^3.12.1",
 		"date-format": "^3.0.0",
