@@ -44,6 +44,7 @@ export default {
 	],
 
 	router: {
+    base: "/EXAClock/",
 		middleware: "time",
 	},
 
